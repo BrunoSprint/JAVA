@@ -1,0 +1,3 @@
+id,nome,tipo,marca,modelo,ativo,valor,dataAquisicao,portadorAtual
+1,monitor,lcd,dell,aka01,true,100.00,2022-12-29,Dom Ramon
+2,notebook,legion,dell,aka07,true,2.30,2024-02-22,Raimundo Nonato
